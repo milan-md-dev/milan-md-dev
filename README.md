@@ -10,9 +10,10 @@
 
 ### ⚕️💻 About me:
 
-- 🔭 I’m currently working as a ophthalmologist while also improving my software development skills
-- 🌱 I’m in the process of learning Java and C#
-- ⚡ Fun fact: Humans have 2 types of photoreceptor cells in their eyes - while peacock mantis shrimps have up to 16!
++ 🟢 I am an Android developer
++ 🔭 Currently working as a ophthalmologist while also improving my software development skills
++ 🌱 In the process of learning Java and, whenever I can, C#
++ ⚡ Fun fact: Humans have 2 types of photoreceptor cells in their eyes - while peacock mantis shrimps have up to 16!
 
 
 ### 🛠️ Languages and tools:
